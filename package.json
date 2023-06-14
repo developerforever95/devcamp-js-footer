@@ -1,5 +1,5 @@
 {
-  "name": "npm-module",
+  "name": "juan_forever95test",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for js applications with an updated year and name.",
   "main": "index.js",
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/developerforever95/devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.29.4"
-  }
+  },
+  "devDependencies": {}
 }
